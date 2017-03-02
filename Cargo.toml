@@ -1,0 +1,9 @@
+[package]
+name = "anuthur"
+version = "0.1.0"
+authors = ["Luxko <luxko@qq.com>"]
+keywords = ["graphics", "gamedev"]
+description = "A placeholder for a GE"
+license = "Apache-2.0"
+homepage = "https://github.com/DaseinPhaos/anuthur"
+[dependencies]
